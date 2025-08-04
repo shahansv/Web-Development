@@ -1,0 +1,14 @@
+body{
+    background-color:black;
+}
+
+h1{
+    color:tomato;
+    background-color:#323232; 
+    text-align: center; 
+}
+
+p{
+    color:orangered;
+    background-color:antiquewhite;
+}
