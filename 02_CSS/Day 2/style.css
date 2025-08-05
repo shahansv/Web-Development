@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-style: italic;
+}
+
+h1 {
+  background-color: brown;
+}
+
+#head2 {
+  background-color: black;
+  color: bisque;
+  text-align: center;
+}
+
+.c1 {
+  color: darkorange;
+}
+
+
+.block{
+    background-color: cornflowerblue;
+}
+
+.inline{
+    background-color: coral;
+}
